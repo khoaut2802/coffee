@@ -1,0 +1,1604 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "category": "coffee",
+      "tag": [
+        "coffee",
+        "coffee"
+      ],
+      "shortDescription": "Cafe Thải Độc Đại Tràng - Nâu Phổ Thông\nOrganic Coffee Đà Lạt 55 - OC Enema Organic Coffee.\n100% cà phê hữu cơ không phụ gia, hoá chất, hương liệu.",
+      "fullDescription": "Cà phê thải độc đại tràng - Nâu Cao cấp - Đà Lạt 55 - Cafe Organic.\nThành phần: 100% Arabica Organic Coffee Khối lượng tịnh: 500 grams\nCÀ PHÊ HỮU CƠ ENEMA THẢI ĐỘC ĐẠI TRÀNG. ĐIỂM KHÁC BIỆT: \nChúng tôi sở hữu vùng trồng đồng nhất được bao phủ bởi vùng trồng đệm theo đúng tiêu chuẩn USDA và do chính chuyên gia thực hiện lấy mẫu để xét nghiệm.\nKết quả xét nghiệm được áp dụng cho toàn bộ vùng trồng (đã được lấy ngẫu nhiên từ 3 vị trí khác nhau gồm: mẫu đất; nước; quả cafe).\nChúng tôi không sử dụng nguồn nguyên liệu được các Cty nhỏ lẻ thu gom đại trà cung cấp.",
+      "name": "[Nâu - Phổ thông] Cà phê thải độc đại tràng - Dalat 55 Gold",
+      "rate": 4,
+      "price": 109000,
+      "discount": 3,
+      "quantity": 8,
+      "coverImage": "/assets/images/products/brown_1.jpeg",
+      "images": [
+        "/assets/images/products/brown_1.jpeg"
+      ],
+      "specifications": {
+        "weight": "500g",
+        "dimensions": {
+          "long": 30,
+          "width": 15,
+          "height": 10
+        },
+        "color": "brown",
+        "size": "xl"
+      },
+      "slug": "fresh-orange-1",
+      "reviews": [
+        {
+          "id": "c3",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Vương Minh Tuấn",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        },
+        {
+          "id": "c1",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Xuân Khoa",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng",
+          "reply": [
+            {
+              "id": "c2",
+              "commentDate": "2020-09-06",
+              "user": {
+                "name": "Tạ Quang Huy",
+                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+              },
+              "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Thành Giang",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "category": "coffee",
+      "tag": [
+        "coffee",
+        "coffee"
+      ],
+      "shortDescription": "Cafe Thải Độc Đại Tràng - Nâu Phổ Thông\nOrganic Coffee Đà Lạt 55 - OC Enema Organic Coffee.\n100% cà phê hữu cơ không phụ gia, hoá chất, hương liệu.",
+      "fullDescription": "Cà phê thải độc đại tràng - Nâu Cao cấp - Đà Lạt 55 - Cafe Organic.\nThành phần: 100% Arabica Organic Coffee Khối lượng tịnh: 500 grams\nCÀ PHÊ HỮU CƠ ENEMA THẢI ĐỘC ĐẠI TRÀNG. ĐIỂM KHÁC BIỆT: \nChúng tôi sở hữu vùng trồng đồng nhất được bao phủ bởi vùng trồng đệm theo đúng tiêu chuẩn USDA và do chính chuyên gia thực hiện lấy mẫu để xét nghiệm.\nKết quả xét nghiệm được áp dụng cho toàn bộ vùng trồng (đã được lấy ngẫu nhiên từ 3 vị trí khác nhau gồm: mẫu đất; nước; quả cafe).\nChúng tôi không sử dụng nguồn nguyên liệu được các Cty nhỏ lẻ thu gom đại trà cung cấp.",
+      "name": "[Nâu - Tiêu chuẩn] Cà phê thải độc đại tràng - Dalat 55 Gold",
+      "rate": 5,
+      "price": 159000,
+      "quantity": 4,
+      "coverImage": "/assets/images/products/brown_2.jpeg",
+      "images": [
+        "/assets/images/products/brown_2.jpeg"
+      ],
+      "specifications": {
+        "weight": "1kg",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "brown",
+        "size": "l"
+      },
+      "slug": "green-chrusanthemum-2",
+      "reviews": [
+        {
+          "id": "c3",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Vương Minh Tuấn",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        },
+        {
+          "id": "c1",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Xuân Khoa",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng",
+          "reply": [
+            {
+              "id": "c2",
+              "commentDate": "2020-09-06",
+              "user": {
+                "name": "Tạ Quang Huy",
+                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+              },
+              "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Thành Giang",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "category": "coffee",
+      "tag": [
+        "coffee",
+        "coffee"
+      ],
+      "shortDescription": "Cafe Thải Độc Đại Tràng - Nâu Phổ Thông\nOrganic Coffee Đà Lạt 55 - OC Enema Organic Coffee.\n100% cà phê hữu cơ không phụ gia, hoá chất, hương liệu.",
+      "fullDescription": "Cà phê thải độc đại tràng - Nâu Cao cấp - Đà Lạt 55 - Cafe Organic.\nThành phần: 100% Arabica Organic Coffee Khối lượng tịnh: 500 grams\nCÀ PHÊ HỮU CƠ ENEMA THẢI ĐỘC ĐẠI TRÀNG. ĐIỂM KHÁC BIỆT: \nChúng tôi sở hữu vùng trồng đồng nhất được bao phủ bởi vùng trồng đệm theo đúng tiêu chuẩn USDA và do chính chuyên gia thực hiện lấy mẫu để xét nghiệm.\nKết quả xét nghiệm được áp dụng cho toàn bộ vùng trồng (đã được lấy ngẫu nhiên từ 3 vị trí khác nhau gồm: mẫu đất; nước; quả cafe).\nChúng tôi không sử dụng nguồn nguyên liệu được các Cty nhỏ lẻ thu gom đại trà cung cấp.",
+      "name": "[Nâu - Cao cấp] Cà phê thải độc đại tràng - Dalat 55 Gold",
+      "rate": 5,
+      "price": 209000,
+      "quantity": 23,
+      "coverImage": "/assets/images/products/brown_3.jpeg",
+      "images": [
+        "/assets/images/products/brown_3.jpeg"
+      ],
+      "specifications": {
+        "weight": "1kg",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "brown",
+        "size": "s"
+      },
+      "slug": "mustard-australia-3",
+      "reviews": [
+        {
+          "id": "c3",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Vương Minh Tuấn",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        },
+        {
+          "id": "c1",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Xuân Khoa",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng",
+          "reply": [
+            {
+              "id": "c2",
+              "commentDate": "2020-09-06",
+              "user": {
+                "name": "Tạ Quang Huy",
+                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+              },
+              "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Thành Giang",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "category": "coffee",
+      "tag": [
+        "coffee",
+        "meat"
+      ],
+      "shortDescription": "Cafe Thải Độc Đại Tràng - Nâu Phổ Thông\nOrganic Coffee Đà Lạt 55 - OC Enema Organic Coffee.\n100% cà phê hữu cơ không phụ gia, hoá chất, hương liệu.",
+      "fullDescription": "Cà phê thải độc đại tràng - Nâu Cao cấp - Đà Lạt 55 - Cafe Organic.\nThành phần: 100% Arabica Organic Coffee Khối lượng tịnh: 500 grams\nCÀ PHÊ HỮU CƠ ENEMA THẢI ĐỘC ĐẠI TRÀNG. ĐIỂM KHÁC BIỆT: \nChúng tôi sở hữu vùng trồng đồng nhất được bao phủ bởi vùng trồng đệm theo đúng tiêu chuẩn USDA và do chính chuyên gia thực hiện lấy mẫu để xét nghiệm.\nKết quả xét nghiệm được áp dụng cho toàn bộ vùng trồng (đã được lấy ngẫu nhiên từ 3 vị trí khác nhau gồm: mẫu đất; nước; quả cafe).\nChúng tôi không sử dụng nguồn nguyên liệu được các Cty nhỏ lẻ thu gom đại trà cung cấp.",
+      "name": "[Vàng - Phổ thông] Cà phê thải độc đại tràng - Dalat 55 Gold",
+      "rate": 5,
+      "price": 119000,
+      "discount": 2,
+      "quantity": 23,
+      "coverImage": "/assets/images/products/gold_1.jpeg",
+      "images": [
+        "/assets/images/products/gold_1.jpeg"
+      ],
+      "specifications": {
+        "weight": "1kg",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "yellow",
+        "size": "m"
+      },
+      "slug": "grouped-product-4",
+      "reviews": [
+        {
+          "id": "c3",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Vương Minh Tuấn",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        },
+        {
+          "id": "c1",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Xuân Khoa",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng",
+          "reply": [
+            {
+              "id": "c2",
+              "commentDate": "2020-09-06",
+              "user": {
+                "name": "Tạ Quang Huy",
+                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+              },
+              "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Thành Giang",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "category": "coffee",
+      "tag": [
+        "coffee",
+        "meat"
+      ],
+      "shortDescription": "Cafe Thải Độc Đại Tràng - Nâu Phổ Thông\nOrganic Coffee Đà Lạt 55 - OC Enema Organic Coffee.\n100% cà phê hữu cơ không phụ gia, hoá chất, hương liệu.",
+      "fullDescription": "Cà phê thải độc đại tràng - Nâu Cao cấp - Đà Lạt 55 - Cafe Organic.\nThành phần: 100% Arabica Organic Coffee Khối lượng tịnh: 500 grams\nCÀ PHÊ HỮU CƠ ENEMA THẢI ĐỘC ĐẠI TRÀNG. ĐIỂM KHÁC BIỆT: \nChúng tôi sở hữu vùng trồng đồng nhất được bao phủ bởi vùng trồng đệm theo đúng tiêu chuẩn USDA và do chính chuyên gia thực hiện lấy mẫu để xét nghiệm.\nKết quả xét nghiệm được áp dụng cho toàn bộ vùng trồng (đã được lấy ngẫu nhiên từ 3 vị trí khác nhau gồm: mẫu đất; nước; quả cafe).\nChúng tôi không sử dụng nguồn nguyên liệu được các Cty nhỏ lẻ thu gom đại trà cung cấp.",
+      "name": "[Vàng - Tiêu chuẩn] Cà phê thải độc đại tràng - Dalat 55 Gold",
+      "rate": 5,
+      "price": 169000,
+      "quantity": 23,
+      "coverImage": "/assets/images/products/gold_2.jpeg",
+      "images": [
+        "/assets/images/products/gold_2.jpeg"
+      ],
+      "specifications": {
+        "weight": "1kg",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "yellow",
+        "size": "m"
+      },
+      "slug": "india-strawberry-5",
+      "reviews": [
+        {
+          "id": "c3",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Vương Minh Tuấn",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        },
+        {
+          "id": "c1",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Xuân Khoa",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng",
+          "reply": [
+            {
+              "id": "c2",
+              "commentDate": "2020-09-06",
+              "user": {
+                "name": "Tạ Quang Huy",
+                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+              },
+              "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Thành Giang",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "category": "coffee",
+      "tag": [
+        "coffee",
+        "meat"
+      ],
+      "shortDescription": "Cafe Thải Độc Đại Tràng - Nâu Phổ Thông\nOrganic Coffee Đà Lạt 55 - OC Enema Organic Coffee.\n100% cà phê hữu cơ không phụ gia, hoá chất, hương liệu.",
+      "fullDescription": "Cà phê thải độc đại tràng - Nâu Cao cấp - Đà Lạt 55 - Cafe Organic.\nThành phần: 100% Arabica Organic Coffee Khối lượng tịnh: 500 grams\nCÀ PHÊ HỮU CƠ ENEMA THẢI ĐỘC ĐẠI TRÀNG. ĐIỂM KHÁC BIỆT: \nChúng tôi sở hữu vùng trồng đồng nhất được bao phủ bởi vùng trồng đệm theo đúng tiêu chuẩn USDA và do chính chuyên gia thực hiện lấy mẫu để xét nghiệm.\nKết quả xét nghiệm được áp dụng cho toàn bộ vùng trồng (đã được lấy ngẫu nhiên từ 3 vị trí khác nhau gồm: mẫu đất; nước; quả cafe).\nChúng tôi không sử dụng nguồn nguyên liệu được các Cty nhỏ lẻ thu gom đại trà cung cấp.",
+      "name": "[Vàng - Cao cấp] Cà phê thải độc đại tràng - Dalat 55 Gold",
+      "rate": 5,
+      "price": 229000,
+      "quantity": 3,
+      "coverImage": "/assets/images/products/gold_3.jpeg",
+      "images": [
+        "/assets/images/products/gold_3.jpeg"
+      ],
+      "specifications": {
+        "weight": "1kg",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "yellow",
+        "size": "l"
+      },
+      "slug": "american-grape-6",
+      "reviews": [
+        {
+          "id": "c3",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Vương Minh Tuấn",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        },
+        {
+          "id": "c1",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Xuân Khoa",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng",
+          "reply": [
+            {
+              "id": "c2",
+              "commentDate": "2020-09-06",
+              "user": {
+                "name": "Tạ Quang Huy",
+                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+              },
+              "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Thành Giang",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "category": "coffee",
+      "tag": [
+        "coffee",
+        "meat"
+      ],
+      "shortDescription": "Cafe Thải Độc Đại Tràng - Nâu Phổ Thông\nOrganic Coffee Đà Lạt 55 - OC Enema Organic Coffee.\n100% cà phê hữu cơ không phụ gia, hoá chất, hương liệu.",
+      "fullDescription": "Cà phê thải độc đại tràng - Nâu Cao cấp - Đà Lạt 55 - Cafe Organic.\nThành phần: 100% Arabica Organic Coffee Khối lượng tịnh: 500 grams\nCÀ PHÊ HỮU CƠ ENEMA THẢI ĐỘC ĐẠI TRÀNG. ĐIỂM KHÁC BIỆT: \nChúng tôi sở hữu vùng trồng đồng nhất được bao phủ bởi vùng trồng đệm theo đúng tiêu chuẩn USDA và do chính chuyên gia thực hiện lấy mẫu để xét nghiệm.\nKết quả xét nghiệm được áp dụng cho toàn bộ vùng trồng (đã được lấy ngẫu nhiên từ 3 vị trí khác nhau gồm: mẫu đất; nước; quả cafe).\nChúng tôi không sử dụng nguồn nguyên liệu được các Cty nhỏ lẻ thu gom đại trà cung cấp.",
+      "name": "[Xanh - Phổ thông] Cà phê thải độc đại tràng - Dalat 55 Gold",
+      "rate": 4,
+      "price": 129000,
+      "quantity": 15,
+      "coverImage": "/assets/images/products/green_1.jpeg",
+      "images": [
+        "/assets/images/products/green_1.jpeg"
+      ],
+      "specifications": {
+        "weight": "1kg",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "green",
+        "size": "xl"
+      },
+      "slug": "anpan-coffee-7",
+      "reviews": [
+        {
+          "id": "c3",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Vương Minh Tuấn",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        },
+        {
+          "id": "c1",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Xuân Khoa",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng",
+          "reply": [
+            {
+              "id": "c2",
+              "commentDate": "2020-09-06",
+              "user": {
+                "name": "Tạ Quang Huy",
+                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+              },
+              "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Thành Giang",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "category": "coffee",
+      "tag": [
+        "coffee",
+        "meat"
+      ],
+      "shortDescription": "Cafe Thải Độc Đại Tràng - Nâu Phổ Thông\nOrganic Coffee Đà Lạt 55 - OC Enema Organic Coffee.\n100% cà phê hữu cơ không phụ gia, hoá chất, hương liệu.",
+      "fullDescription": "Cà phê thải độc đại tràng - Nâu Cao cấp - Đà Lạt 55 - Cafe Organic.\nThành phần: 100% Arabica Organic Coffee Khối lượng tịnh: 500 grams\nCÀ PHÊ HỮU CƠ ENEMA THẢI ĐỘC ĐẠI TRÀNG. ĐIỂM KHÁC BIỆT: \nChúng tôi sở hữu vùng trồng đồng nhất được bao phủ bởi vùng trồng đệm theo đúng tiêu chuẩn USDA và do chính chuyên gia thực hiện lấy mẫu để xét nghiệm.\nKết quả xét nghiệm được áp dụng cho toàn bộ vùng trồng (đã được lấy ngẫu nhiên từ 3 vị trí khác nhau gồm: mẫu đất; nước; quả cafe).\nChúng tôi không sử dụng nguồn nguyên liệu được các Cty nhỏ lẻ thu gom đại trà cung cấp.",
+      "name": "[Xanh - Tiêu chuẩn] Cà phê thải độc đại tràng - Dalat 55 Gold",
+      "rate": 3,
+      "price": 199000,
+      "quantity": 15,
+      "coverImage": "/assets/images/products/green_2.jpeg",
+      "images": [
+        "/assets/images/products/green_2.jpeg"
+      ],
+      "specifications": {
+        "weight": "1kg",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "green",
+        "size": "s"
+      },
+      "slug": "fortune-cookies-8",
+      "reviews": [
+        {
+          "id": "c3",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Vương Minh Tuấn",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        },
+        {
+          "id": "c1",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Xuân Khoa",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng",
+          "reply": [
+            {
+              "id": "c2",
+              "commentDate": "2020-09-06",
+              "user": {
+                "name": "Tạ Quang Huy",
+                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+              },
+              "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Thành Giang",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "category": "coffee",
+      "tag": [
+        "coffee",
+        "meat"
+      ],
+      "shortDescription": "Cafe Thải Độc Đại Tràng - Nâu Phổ Thông\nOrganic Coffee Đà Lạt 55 - OC Enema Organic Coffee.\n100% cà phê hữu cơ không phụ gia, hoá chất, hương liệu.",
+      "fullDescription": "Cà phê thải độc đại tràng - Nâu Cao cấp - Đà Lạt 55 - Cafe Organic.\nThành phần: 100% Arabica Organic Coffee Khối lượng tịnh: 500 grams\nCÀ PHÊ HỮU CƠ ENEMA THẢI ĐỘC ĐẠI TRÀNG. ĐIỂM KHÁC BIỆT: \nChúng tôi sở hữu vùng trồng đồng nhất được bao phủ bởi vùng trồng đệm theo đúng tiêu chuẩn USDA và do chính chuyên gia thực hiện lấy mẫu để xét nghiệm.\nKết quả xét nghiệm được áp dụng cho toàn bộ vùng trồng (đã được lấy ngẫu nhiên từ 3 vị trí khác nhau gồm: mẫu đất; nước; quả cafe).\nChúng tôi không sử dụng nguồn nguyên liệu được các Cty nhỏ lẻ thu gom đại trà cung cấp.",
+      "name": "[Xanh - Cao cấp] Cà phê thải độc đại tràng - Dalat 55 Gold",
+      "rate": 4,
+      "price": 289000,
+      "quantity": 15,
+      "coverImage": "/assets/images/products/green_3.jpeg",
+      "images": [
+        "/assets/images/products/green_3.jpeg"
+      ],
+      "specifications": {
+        "weight": "1kg",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "green",
+        "size": "l"
+      },
+      "slug": "green-cauliflower-9",
+      "reviews": [
+        {
+          "id": "c3",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Vương Minh Tuấn",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        },
+        {
+          "id": "c1",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Xuân Khoa",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng",
+          "reply": [
+            {
+              "id": "c2",
+              "commentDate": "2020-09-06",
+              "user": {
+                "name": "Tạ Quang Huy",
+                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+              },
+              "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Thành Giang",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "category": "organic-coffee",
+      "tag": [
+        "organic-coffee",
+        "organic-coffee"
+      ],
+      "shortDescription": "Cafe Thải Độc Đại Tràng - Nâu Phổ Thông\nOrganic Coffee Đà Lạt 55 - OC Enema Organic Coffee.\n100% cà phê hữu cơ không phụ gia, hoá chất, hương liệu.",
+      "fullDescription": "Cà phê thải độc đại tràng - Nâu Cao cấp - Đà Lạt 55 - Cafe Organic.\nThành phần: 100% Arabica Organic Coffee Khối lượng tịnh: 500 grams\nCÀ PHÊ HỮU CƠ ENEMA THẢI ĐỘC ĐẠI TRÀNG. ĐIỂM KHÁC BIỆT: \nChúng tôi sở hữu vùng trồng đồng nhất được bao phủ bởi vùng trồng đệm theo đúng tiêu chuẩn USDA và do chính chuyên gia thực hiện lấy mẫu để xét nghiệm.\nKết quả xét nghiệm được áp dụng cho toàn bộ vùng trồng (đã được lấy ngẫu nhiên từ 3 vị trí khác nhau gồm: mẫu đất; nước; quả cafe).\nChúng tôi không sử dụng nguồn nguyên liệu được các Cty nhỏ lẻ thu gom đại trà cung cấp.",
+      "name": "Cà phê hữu cơ VICTORY HV - Hạt - Rang Vừa",
+      "rate": 4,
+      "price": 511000,
+      "quantity": 15,
+      "coverImage": "/assets/images/products/huuco_3.jpg",
+      "images": [
+        "/assets/images/products/huuco_3.jpg"
+      ],
+      "specifications": {
+        "weight": "1kg",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "green",
+        "size": "m"
+      },
+      "slug": "green-aus-10",
+      "reviews": [
+        {
+          "id": "c3",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Vương Minh Tuấn",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        },
+        {
+          "id": "c1",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Xuân Khoa",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng",
+          "reply": [
+            {
+              "id": "c2",
+              "commentDate": "2020-09-06",
+              "user": {
+                "name": "Tạ Quang Huy",
+                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+              },
+              "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Thành Giang",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "category": "organic-coffee",
+      "tag": [
+        "organic-coffee",
+        "organic-coffee"
+      ],
+      "shortDescription": "Cafe Thải Độc Đại Tràng - Nâu Phổ Thông\nOrganic Coffee Đà Lạt 55 - OC Enema Organic Coffee.\n100% cà phê hữu cơ không phụ gia, hoá chất, hương liệu.",
+      "fullDescription": "Cà phê thải độc đại tràng - Nâu Cao cấp - Đà Lạt 55 - Cafe Organic.\nThành phần: 100% Arabica Organic Coffee Khối lượng tịnh: 500 grams\nCÀ PHÊ HỮU CƠ ENEMA THẢI ĐỘC ĐẠI TRÀNG. ĐIỂM KHÁC BIỆT: \nChúng tôi sở hữu vùng trồng đồng nhất được bao phủ bởi vùng trồng đệm theo đúng tiêu chuẩn USDA và do chính chuyên gia thực hiện lấy mẫu để xét nghiệm.\nKết quả xét nghiệm được áp dụng cho toàn bộ vùng trồng (đã được lấy ngẫu nhiên từ 3 vị trí khác nhau gồm: mẫu đất; nước; quả cafe).\nChúng tôi không sử dụng nguồn nguyên liệu được các Cty nhỏ lẻ thu gom đại trà cung cấp.",
+      "name": "Cà phê hữu cơ Sài Gòn 88 - Robusta + 20% Arabica - Bột (Đậm - Vừa)",
+      "rate": 4,
+      "price": 78000,
+      "discount": 5,
+      "quantity": 10,
+      "coverImage": "/assets/images/products/huuco_1.jpg",
+      "images": [
+        "/assets/images/products/huuco_1.jpg"
+      ],
+      "specifications": {
+        "weight": "1kg",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "red",
+        "size": "l"
+      },
+      "slug": "kossars-bakery-11",
+      "reviews": [
+        {
+          "id": "c3",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Vương Minh Tuấn",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        },
+        {
+          "id": "c1",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Xuân Khoa",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng",
+          "reply": [
+            {
+              "id": "c2",
+              "commentDate": "2020-09-06",
+              "user": {
+                "name": "Tạ Quang Huy",
+                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+              },
+              "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Thành Giang",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "category": "organic-coffee",
+      "tag": [
+        "organic-coffee",
+        "organic-coffee"
+      ],
+      "shortDescription": "Cafe Thải Độc Đại Tràng - Nâu Phổ Thông\nOrganic Coffee Đà Lạt 55 - OC Enema Organic Coffee.\n100% cà phê hữu cơ không phụ gia, hoá chất, hương liệu.",
+      "fullDescription": "Cà phê thải độc đại tràng - Nâu Cao cấp - Đà Lạt 55 - Cafe Organic.\nThành phần: 100% Arabica Organic Coffee Khối lượng tịnh: 500 grams\nCÀ PHÊ HỮU CƠ ENEMA THẢI ĐỘC ĐẠI TRÀNG. ĐIỂM KHÁC BIỆT: \nChúng tôi sở hữu vùng trồng đồng nhất được bao phủ bởi vùng trồng đệm theo đúng tiêu chuẩn USDA và do chính chuyên gia thực hiện lấy mẫu để xét nghiệm.\nKết quả xét nghiệm được áp dụng cho toàn bộ vùng trồng (đã được lấy ngẫu nhiên từ 3 vị trí khác nhau gồm: mẫu đất; nước; quả cafe).\nChúng tôi không sử dụng nguồn nguyên liệu được các Cty nhỏ lẻ thu gom đại trà cung cấp.",
+      "name": "Cà phê hữu cơ VICTORY HĐ - Hạt - Rang Đậm",
+      "rate": 4,
+      "price": 429000,
+      "quantity": 4,
+      "coverImage": "/assets/images/products/huuco_2.jpg",
+      "images": [
+        "/assets/images/products/huuco_2.jpg"
+      ],
+      "specifications": {
+        "weight": "1kg",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "yellow",
+        "size": "s"
+      },
+      "slug": "zutter-chocolate-12",
+      "reviews": [
+        {
+          "id": "c3",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Vương Minh Tuấn",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        },
+        {
+          "id": "c1",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Xuân Khoa",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng",
+          "reply": [
+            {
+              "id": "c2",
+              "commentDate": "2020-09-06",
+              "user": {
+                "name": "Tạ Quang Huy",
+                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+              },
+              "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Thành Giang",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        }
+      ]
+    }
+  ],
+  "blog": [
+    {
+      "id": "u1",
+      "category": "story",
+      "tag": [
+        "story",
+        "natural",
+        "organic farm"
+      ],
+      "title": "Câu chuyện Organic Coffee",
+      "slug": "cau-chuyen-organic-coffee",
+      "shortDescription": "Hành trình tạo nên thương hiệu OC",
+      "publicDate": "2023-04-09",
+      "coverImage": "/assets/images/blog/blog-detail/cauchuyenoc.png",
+      "author": {
+        "name": "Vương Minh Tuấn",
+        "avatar": "/assets/images/avt/avt_1.jpg"
+      },
+      "comments": [
+        {
+          "id": "c3",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Vương Minh Tuấn",
+            "avatar": "/assets/images/avt/avt_1.jpg"
+          },
+          "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        },
+        {
+          "id": "c1",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Xuân Khoa",
+            "avatar": "/assets/images/avt/avt_2.jpg"
+          },
+          "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng",
+          "reply": [
+            {
+              "id": "c2",
+              "commentDate": "2020-09-06",
+              "user": {
+                "name": "Tạ Quang Huy",
+                "avatar": "/assets/images/avt/avt_1.jpg"
+              },
+              "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Thành Giang",
+            "avatar": "/assets/images/avt/avt_4.jpg"
+          },
+          "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "category": "blog",
+      "tag": [
+        "fresh food",
+        "natural",
+        "organic farm"
+      ],
+      "title": "Quy trình tạo ra thành phẩm Organic Coffee",
+      "slug": "quy-trinh-tao-ra-thanh-pham-organic-coffee",
+      "shortDescription": "Thành phẩm được đảm bảo về mặt chất lượng từ khâu chọn giống cho đến các khâu thu hoạch và bảo quản.\nCam kết đem đến cho người tiêu dùng sản phẩm SẠCH - ĐÚNG TIÊU CHUẨN.",
+      "publicDate": "2020-09-10 ",
+      "coverImage": "/assets/images/blog/blog-detail/blog_2.jpg",
+      "author": {
+        "name": "Vương Minh Tuấn",
+        "avatar": "/assets/images/avt/avt_1.jpg"
+      },
+      "comments": [
+        {
+          "id": "c3",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Vương Minh Tuấn",
+            "avatar": "/assets/images/avt/avt_1.jpg"
+          },
+          "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        },
+        {
+          "id": "c1",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Xuân Khoa",
+            "avatar": "/assets/images/avt/avt_2.jpg"
+          },
+          "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng",
+          "reply": [
+            {
+              "id": "c2",
+              "commentDate": "2020-09-06",
+              "user": {
+                "name": "Tạ Quang Huy",
+                "avatar": "/assets/images/avt/avt_3.jpg"
+              },
+              "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Thành Giang",
+            "avatar": "/assets/images/avt/avt_4.jpg"
+          },
+          "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        }
+      ]
+    },
+    {
+      "id": "u3",
+      "category": "blog",
+      "tag": [
+        "fresh food",
+        "natural",
+        "organic farm"
+      ],
+      "title": "Ưu điểm vượt trội của Organic Coffee",
+      "slug": "easy-pressure-cooker-green-chili-with-chicken-recipe-u3",
+      "shortDescription": "Ưu điểm vượt trội của Organic Coffee",
+      "publicDate": "2020-09-27",
+      "coverImage": "/assets/images/blog/blog-detail/blog_3.jpg",
+      "author": {
+        "name": "Vương Minh Tuấn",
+        "avatar": "/assets/images/avt/avt_1.jpg"
+      },
+      "comments": [
+        {
+          "id": "c3",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Vương Minh Tuấn",
+            "avatar": "/assets/images/avt/avt_1.jpg"
+          },
+          "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        },
+        {
+          "id": "c1",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Xuân Khoa",
+            "avatar": "/assets/images/avt/avt_2.jpg"
+          },
+          "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng",
+          "reply": [
+            {
+              "id": "c2",
+              "commentDate": "2020-09-06",
+              "user": {
+                "name": "Tạ Quang Huy",
+                "avatar": "/assets/images/avt/avt_3.jpg"
+              },
+              "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Thành Giang",
+            "avatar": "/assets/images/avt/avt_4.jpg"
+          },
+          "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        }
+      ]
+    },
+    {
+      "id": "u4",
+      "category": "blog",
+      "tag": [
+        "meal",
+        "natural",
+        "organic farm"
+      ],
+      "title": "Giá cà phê tháng 8/2022: Vì sao giá tăng dựng đứng nhưng cà phê Việt Nam xuất khẩu lại khó khăn?",
+      "slug": "foolproof-pan-pizza-recipe-u4",
+      "shortDescription": "Vì sao giá cà phê tháng 8/2021 ở Việt Nam đảo chiều tăng như vậy?",
+      "publicDate": "2020-09-27",
+      "coverImage": "/assets/images/blog/blog-detail/blog_4.jpg",
+      "author": {
+        "name": "Vương Minh Tuấn",
+        "avatar": "/assets/images/avt/avt_1.jpg"
+      },
+      "comments": [
+        {
+          "id": "c3",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Vương Minh Tuấn",
+            "avatar": "/assets/images/avt/avt_1.jpg"
+          },
+          "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        },
+        {
+          "id": "c1",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Xuân Khoa",
+            "avatar": "/assets/images/avt/avt_2.jpg"
+          },
+          "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng",
+          "reply": [
+            {
+              "id": "c2",
+              "commentDate": "2020-09-06",
+              "user": {
+                "name": "Tạ Quang Huy",
+                "avatar": "/assets/images/avt/avt_3.jpg"
+              },
+              "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Thành Giang",
+            "avatar": "/assets/images/avt/avt_4.jpg"
+          },
+          "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        }
+      ]
+    },
+    {
+      "id": "u5",
+      "category": "blog",
+      "tag": [
+        "meal",
+        "natural",
+        "organic farm"
+      ],
+      "title": "Giá cà phê tháng 8/2022: Vì sao giá tăng dựng đứng nhưng cà phê Việt Nam xuất khẩu lại khó khăn?",
+      "slug": "foolproof-pan-pizza-recipe-u4",
+      "shortDescription": "Vì sao giá cà phê tháng 8/2021 ở Việt Nam đảo chiều tăng như vậy?",
+      "publicDate": "2020-09-27",
+      "coverImage": "/assets/images/blog/blog-detail/blog_4.jpg",
+      "author": {
+        "name": "Vương Minh Tuấn",
+        "avatar": "/assets/images/avt/avt_1.jpg"
+      },
+      "comments": [
+        {
+          "id": "c3",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Vương Minh Tuấn",
+            "avatar": "/assets/images/avt/avt_1.jpg"
+          },
+          "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        },
+        {
+          "id": "c1",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Xuân Khoa",
+            "avatar": "/assets/images/avt/avt_2.jpg"
+          },
+          "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng",
+          "reply": [
+            {
+              "id": "c2",
+              "commentDate": "2020-09-06",
+              "user": {
+                "name": "Tạ Quang Huy",
+                "avatar": "/assets/images/avt/avt_3.jpg"
+              },
+              "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Thành Giang",
+            "avatar": "/assets/images/avt/avt_4.jpg"
+          },
+          "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        }
+      ]
+    },
+    {
+      "id": "u6",
+      "category": "blog",
+      "tag": [
+        "meal",
+        "natural",
+        "organic farm"
+      ],
+      "title": "Giá cà phê tháng 8/2022: Vì sao giá tăng dựng đứng nhưng cà phê Việt Nam xuất khẩu lại khó khăn?",
+      "slug": "foolproof-pan-pizza-recipe-u4",
+      "shortDescription": "Vì sao giá cà phê tháng 8/2021 ở Việt Nam đảo chiều tăng như vậy?",
+      "publicDate": "2020-09-27",
+      "coverImage": "/assets/images/blog/blog-detail/blog_4.jpg",
+      "author": {
+        "name": "Vương Minh Tuấn",
+        "avatar": "/assets/images/avt/avt_1.jpg"
+      },
+      "comments": [
+        {
+          "id": "c3",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Vương Minh Tuấn",
+            "avatar": "/assets/images/avt/avt_1.jpg"
+          },
+          "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        },
+        {
+          "id": "c1",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Xuân Khoa",
+            "avatar": "/assets/images/avt/avt_2.jpg"
+          },
+          "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng",
+          "reply": [
+            {
+              "id": "c2",
+              "commentDate": "2020-09-06",
+              "user": {
+                "name": "Tạ Quang Huy",
+                "avatar": "/assets/images/avt/avt_3.jpg"
+              },
+              "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Thành Giang",
+            "avatar": "/assets/images/avt/avt_4.jpg"
+          },
+          "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        }
+      ]
+    },
+    {
+      "id": "u7",
+      "category": "blog",
+      "tag": [
+        "meal",
+        "natural",
+        "organic farm"
+      ],
+      "title": "Giá cà phê tháng 8/2022: Vì sao giá tăng dựng đứng nhưng cà phê Việt Nam xuất khẩu lại khó khăn?",
+      "slug": "foolproof-pan-pizza-recipe-u4",
+      "shortDescription": "Vì sao giá cà phê tháng 8/2021 ở Việt Nam đảo chiều tăng như vậy?",
+      "publicDate": "2020-09-27",
+      "coverImage": "/assets/images/blog/blog-detail/blog_4.jpg",
+      "author": {
+        "name": "Vương Minh Tuấn",
+        "avatar": "/assets/images/avt/avt_1.jpg"
+      },
+      "comments": [
+        {
+          "id": "c3",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Vương Minh Tuấn",
+            "avatar": "/assets/images/avt/avt_1.jpg"
+          },
+          "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        },
+        {
+          "id": "c1",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Xuân Khoa",
+            "avatar": "/assets/images/avt/avt_2.jpg"
+          },
+          "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng",
+          "reply": [
+            {
+              "id": "c2",
+              "commentDate": "2020-09-06",
+              "user": {
+                "name": "Tạ Quang Huy",
+                "avatar": "/assets/images/avt/avt_3.jpg"
+              },
+              "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Thành Giang",
+            "avatar": "/assets/images/avt/avt_4.jpg"
+          },
+          "comment": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        }
+      ]
+    }
+  ],
+  "users": {
+    "email": "admin@gmail.com",
+    "password": "admin123"
+  },
+  "cart": [
+    {
+      "id": "b80c51f4-c16d-4fdb-9baf-2fb3fd4edbff",
+      "category": "coffee",
+      "tag": [
+        "coffee",
+        "coffee"
+      ],
+      "shortDescription": "Cafe Thải Độc Đại Tràng - Nâu Phổ Thông\nOrganic Coffee Đà Lạt 55 - OC Enema Organic Coffee.\n100% cà phê hữu cơ không phụ gia, hoá chất, hương liệu.",
+      "fullDescription": "Cà phê thải độc đại tràng - Nâu Cao cấp - Đà Lạt 55 - Cafe Organic.\nThành phần: 100% Arabica Organic Coffee Khối lượng tịnh: 500 grams\nCÀ PHÊ HỮU CƠ ENEMA THẢI ĐỘC ĐẠI TRÀNG. ĐIỂM KHÁC BIỆT: \nChúng tôi sở hữu vùng trồng đồng nhất được bao phủ bởi vùng trồng đệm theo đúng tiêu chuẩn USDA và do chính chuyên gia thực hiện lấy mẫu để xét nghiệm.\nKết quả xét nghiệm được áp dụng cho toàn bộ vùng trồng (đã được lấy ngẫu nhiên từ 3 vị trí khác nhau gồm: mẫu đất; nước; quả cafe).\nChúng tôi không sử dụng nguồn nguyên liệu được các Cty nhỏ lẻ thu gom đại trà cung cấp.",
+      "name": "[Nâu - Phổ thông] Cà phê thải độc đại tràng - Dalat 55 Gold",
+      "rate": 4,
+      "price": 109000,
+      "discount": 3,
+      "quantity": 8,
+      "coverImage": "/assets/images/products/brown_1.jpeg",
+      "images": [
+        "/assets/images/products/brown_1.jpeg"
+      ],
+      "specifications": {
+        "weight": "500g",
+        "dimensions": {
+          "long": 30,
+          "width": 15,
+          "height": 10
+        },
+        "color": "brown",
+        "size": "xl"
+      },
+      "slug": "fresh-orange-1",
+      "reviews": [
+        {
+          "id": "c3",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Vương Minh Tuấn",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        },
+        {
+          "id": "c1",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Xuân Khoa",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng",
+          "reply": [
+            {
+              "id": "c2",
+              "commentDate": "2020-09-06",
+              "user": {
+                "name": "Tạ Quang Huy",
+                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+              },
+              "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Thành Giang",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        }
+      ],
+      "productId": "1",
+      "cartQuantity": 3
+    },
+    {
+      "id": "b3d2dd63-66fc-4958-9a5c-af55ea448624",
+      "category": "coffee",
+      "tag": [
+        "coffee",
+        "coffee"
+      ],
+      "shortDescription": "Cafe Thải Độc Đại Tràng - Nâu Phổ Thông\nOrganic Coffee Đà Lạt 55 - OC Enema Organic Coffee.\n100% cà phê hữu cơ không phụ gia, hoá chất, hương liệu.",
+      "fullDescription": "Cà phê thải độc đại tràng - Nâu Cao cấp - Đà Lạt 55 - Cafe Organic.\nThành phần: 100% Arabica Organic Coffee Khối lượng tịnh: 500 grams\nCÀ PHÊ HỮU CƠ ENEMA THẢI ĐỘC ĐẠI TRÀNG. ĐIỂM KHÁC BIỆT: \nChúng tôi sở hữu vùng trồng đồng nhất được bao phủ bởi vùng trồng đệm theo đúng tiêu chuẩn USDA và do chính chuyên gia thực hiện lấy mẫu để xét nghiệm.\nKết quả xét nghiệm được áp dụng cho toàn bộ vùng trồng (đã được lấy ngẫu nhiên từ 3 vị trí khác nhau gồm: mẫu đất; nước; quả cafe).\nChúng tôi không sử dụng nguồn nguyên liệu được các Cty nhỏ lẻ thu gom đại trà cung cấp.",
+      "name": "[Nâu - Tiêu chuẩn] Cà phê thải độc đại tràng - Dalat 55 Gold",
+      "rate": 5,
+      "price": 159000,
+      "quantity": 4,
+      "coverImage": "/assets/images/products/brown_2.jpeg",
+      "images": [
+        "/assets/images/products/brown_2.jpeg"
+      ],
+      "specifications": {
+        "weight": "1kg",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "brown",
+        "size": "l"
+      },
+      "slug": "green-chrusanthemum-2",
+      "reviews": [
+        {
+          "id": "c3",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Vương Minh Tuấn",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        },
+        {
+          "id": "c1",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Xuân Khoa",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng",
+          "reply": [
+            {
+              "id": "c2",
+              "commentDate": "2020-09-06",
+              "user": {
+                "name": "Tạ Quang Huy",
+                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+              },
+              "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Thành Giang",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        }
+      ],
+      "productId": "2",
+      "cartQuantity": 1
+    },
+    {
+      "id": "56d62d63-d941-4079-a0f2-22b21fae8b55",
+      "category": "coffee",
+      "tag": [
+        "coffee",
+        "meat"
+      ],
+      "shortDescription": "Cafe Thải Độc Đại Tràng - Nâu Phổ Thông\nOrganic Coffee Đà Lạt 55 - OC Enema Organic Coffee.\n100% cà phê hữu cơ không phụ gia, hoá chất, hương liệu.",
+      "fullDescription": "Cà phê thải độc đại tràng - Nâu Cao cấp - Đà Lạt 55 - Cafe Organic.\nThành phần: 100% Arabica Organic Coffee Khối lượng tịnh: 500 grams\nCÀ PHÊ HỮU CƠ ENEMA THẢI ĐỘC ĐẠI TRÀNG. ĐIỂM KHÁC BIỆT: \nChúng tôi sở hữu vùng trồng đồng nhất được bao phủ bởi vùng trồng đệm theo đúng tiêu chuẩn USDA và do chính chuyên gia thực hiện lấy mẫu để xét nghiệm.\nKết quả xét nghiệm được áp dụng cho toàn bộ vùng trồng (đã được lấy ngẫu nhiên từ 3 vị trí khác nhau gồm: mẫu đất; nước; quả cafe).\nChúng tôi không sử dụng nguồn nguyên liệu được các Cty nhỏ lẻ thu gom đại trà cung cấp.",
+      "name": "[Vàng - Tiêu chuẩn] Cà phê thải độc đại tràng - Dalat 55 Gold",
+      "rate": 5,
+      "price": 169000,
+      "quantity": 23,
+      "coverImage": "/assets/images/products/gold_2.jpeg",
+      "images": [
+        "/assets/images/products/gold_2.jpeg"
+      ],
+      "specifications": {
+        "weight": "1kg",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "yellow",
+        "size": "m"
+      },
+      "slug": "india-strawberry-5",
+      "reviews": [
+        {
+          "id": "c3",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Vương Minh Tuấn",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        },
+        {
+          "id": "c1",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Xuân Khoa",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng",
+          "reply": [
+            {
+              "id": "c2",
+              "commentDate": "2020-09-06",
+              "user": {
+                "name": "Tạ Quang Huy",
+                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+              },
+              "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Thành Giang",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        }
+      ],
+      "productId": "5",
+      "cartQuantity": 4
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "1",
+      "category": "coffee",
+      "tag": [
+        "coffee",
+        "coffee"
+      ],
+      "shortDescription": "Cafe Thải Độc Đại Tràng - Nâu Phổ Thông\nOrganic Coffee Đà Lạt 55 - OC Enema Organic Coffee.\n100% cà phê hữu cơ không phụ gia, hoá chất, hương liệu.",
+      "fullDescription": "Cà phê thải độc đại tràng - Nâu Cao cấp - Đà Lạt 55 - Cafe Organic.\nThành phần: 100% Arabica Organic Coffee Khối lượng tịnh: 500 grams\nCÀ PHÊ HỮU CƠ ENEMA THẢI ĐỘC ĐẠI TRÀNG. ĐIỂM KHÁC BIỆT: \nChúng tôi sở hữu vùng trồng đồng nhất được bao phủ bởi vùng trồng đệm theo đúng tiêu chuẩn USDA và do chính chuyên gia thực hiện lấy mẫu để xét nghiệm.\nKết quả xét nghiệm được áp dụng cho toàn bộ vùng trồng (đã được lấy ngẫu nhiên từ 3 vị trí khác nhau gồm: mẫu đất; nước; quả cafe).\nChúng tôi không sử dụng nguồn nguyên liệu được các Cty nhỏ lẻ thu gom đại trà cung cấp.",
+      "name": "[Nâu - Phổ thông] Cà phê thải độc đại tràng - Dalat 55 Gold",
+      "rate": 4,
+      "price": 109000,
+      "discount": 3,
+      "quantity": 8,
+      "coverImage": "/assets/images/products/brown_1.jpeg",
+      "images": [
+        "/assets/images/products/brown_1.jpeg"
+      ],
+      "specifications": {
+        "weight": "500g",
+        "dimensions": {
+          "long": 30,
+          "width": 15,
+          "height": 10
+        },
+        "color": "brown",
+        "size": "xl"
+      },
+      "slug": "fresh-orange-1",
+      "reviews": [
+        {
+          "id": "c3",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Vương Minh Tuấn",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        },
+        {
+          "id": "c1",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Xuân Khoa",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng",
+          "reply": [
+            {
+              "id": "c2",
+              "commentDate": "2020-09-06",
+              "user": {
+                "name": "Tạ Quang Huy",
+                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+              },
+              "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Thành Giang",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "category": "coffee",
+      "tag": [
+        "coffee",
+        "coffee"
+      ],
+      "shortDescription": "Cafe Thải Độc Đại Tràng - Nâu Phổ Thông\nOrganic Coffee Đà Lạt 55 - OC Enema Organic Coffee.\n100% cà phê hữu cơ không phụ gia, hoá chất, hương liệu.",
+      "fullDescription": "Cà phê thải độc đại tràng - Nâu Cao cấp - Đà Lạt 55 - Cafe Organic.\nThành phần: 100% Arabica Organic Coffee Khối lượng tịnh: 500 grams\nCÀ PHÊ HỮU CƠ ENEMA THẢI ĐỘC ĐẠI TRÀNG. ĐIỂM KHÁC BIỆT: \nChúng tôi sở hữu vùng trồng đồng nhất được bao phủ bởi vùng trồng đệm theo đúng tiêu chuẩn USDA và do chính chuyên gia thực hiện lấy mẫu để xét nghiệm.\nKết quả xét nghiệm được áp dụng cho toàn bộ vùng trồng (đã được lấy ngẫu nhiên từ 3 vị trí khác nhau gồm: mẫu đất; nước; quả cafe).\nChúng tôi không sử dụng nguồn nguyên liệu được các Cty nhỏ lẻ thu gom đại trà cung cấp.",
+      "name": "[Nâu - Tiêu chuẩn] Cà phê thải độc đại tràng - Dalat 55 Gold",
+      "rate": 5,
+      "price": 159000,
+      "quantity": 4,
+      "coverImage": "/assets/images/products/brown_2.jpeg",
+      "images": [
+        "/assets/images/products/brown_2.jpeg"
+      ],
+      "specifications": {
+        "weight": "1kg",
+        "dimensions": {
+          "long": 30,
+          "width": 20,
+          "height": 10
+        },
+        "color": "brown",
+        "size": "l"
+      },
+      "slug": "green-chrusanthemum-2",
+      "reviews": [
+        {
+          "id": "c3",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Vương Minh Tuấn",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        },
+        {
+          "id": "c1",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Xuân Khoa",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng",
+          "reply": [
+            {
+              "id": "c2",
+              "commentDate": "2020-09-06",
+              "user": {
+                "name": "Tạ Quang Huy",
+                "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+              },
+              "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "commentDate": "2020-09-06",
+          "user": {
+            "name": "Nguyễn Thành Giang",
+            "avatar": "https://hoc24.vn/images/avt/avt260962_256by256.jpg"
+          },
+          "review": "Cà phê nguyên chất 100%, chất lượng tốt, giá cả phải chăng"
+        }
+      ]
+    }
+  ]
+}

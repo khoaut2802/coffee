@@ -1,0 +1,31 @@
+<Container>
+    <div className="hero-slider-content-wrapper">
+        <Row align="middle" gutter={30}>
+            <Col sm={12}>
+            <div className="hero-slider-content">
+                <h5 data-animation="animate__fadeInDown">
+                    {item.subTitle}
+                </h5>
+                <h1 data-delay="0.2" data-animation="animate__fadeInDown">
+                    {item.title}
+                </h1>
+                <h3 data-delay="0.4" data-animation="animate__fadeInDown">
+                    {formatCurrency(item.price.main)}
+                    <span>/{item.price.unit}</span>
+                </h3>
+                <Button data-delay="0.6" data-animation="animate__fadeInDown" type="primary" shape="round">
+                    <Link href={process.env.PUBLIC_URL + "/shop/shop-3-column" }>
+                    <a>Shop now</a>
+                    </Link>
+                </Button>
+            </div>
+            </Col>
+            <Col sm={12}>
+            <div data-delay="0.8" data-animation="animate__zoomInRight" className="hero-slider-image">
+                {/* <img src={ process.env.PUBLIC_URL + "/assets/images/hero-slider/one/banner_1.png" }
+                    alt="Hero slider image" /> */}
+            </div>
+            </Col>
+        </Row>
+    </div>
+</Container>

@@ -1,0 +1,22 @@
+{
+  "statistical": [
+    {
+      "number": 100,
+      "suffixes": "%",
+      "object": "Khách hàng hài lòng",
+      "icon": "/assets/images/pages/contact/ic-1.png"
+    },
+    {
+      "number": 100,
+      "prefix":"+",
+      "object": "Nhân Viên",
+      "icon": "/assets/images/pages/contact/ic-2.png"
+    },
+    {
+      "number": 16,
+      "prefix": "+",
+      "object": "Nông Trại",
+      "icon": "/assets/images/pages/contact/ic-3.png"
+    }
+  ]
+}

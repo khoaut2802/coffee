@@ -1,0 +1,22 @@
+[
+  {
+    "iconSrc": "/assets/images/other/benefits/1.png",
+    "name": "GIAO HÀNG MIỄN PHÍ",
+    "description": "Với đơn hàng trên 1.000.000đ"
+  },
+  {
+    "iconSrc": "/assets/images/other/benefits/2.png",
+    "name": "GIAO HÀNG ĐÚNG THỜI GIAN",
+    "description": "Nếu sản phẩm có vấn đề"
+  },
+  {
+    "iconSrc": "/assets/images/other/benefits/3.png",
+    "name": "BẢO MẬT THANH TOÁN",
+    "description": "100% bảo mật thông tin khách hàng"
+  },
+  {
+    "iconSrc": "/assets/images/other/benefits/4.png",
+    "name": "24/7 SUPPORT",
+    "description": "Dedicated support"
+  }
+]

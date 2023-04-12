@@ -1,0 +1,32 @@
+{
+  "one": [
+    {
+      "image": {
+        "main": "/assets/images/sections/category/one/brown_1.jpeg"
+      },
+      "title": "Cà phê thải độc",
+      "quantity": 12
+    },
+    {
+      "image": {
+        "main": "/assets/images/sections/category/one/huuco_1.jpg"
+      },
+      "title": "Cà phê hòa tan",
+      "quantity": 8
+    },
+    {
+      "image": {
+        "main": "/assets/images/sections/category/one/bean-coffee_1.png"
+      },
+      "title": "Cà phê hạt - rang xay",
+      "quantity": 2
+    },
+    {
+      "image": {
+        "main": "/assets/images/sections/category/one/special-coffee_1.png"
+      },
+      "title": "Sản phẩm đặc biệt",
+      "quantity": 10
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "one": [
+    {
+      "background": "/assets/images/hero-slider/one/slideshow_1.jpg",
+      "price": {
+        "main": "14",
+        "unit": "pakage"
+      }
+    },
+    {
+      "background": "/assets/images/hero-slider/one/slideshow_2.jpg",
+      "price": {
+        "main": "16",
+        "unit": "pakage"
+      }
+    }
+  ],
+  "four": [
+    {
+      "image": "/assets/images/hero-slider/four/1.png",
+      "background": "/assets/images/hero-slider/four/bg-1.png"
+    },
+    {
+      "image": "/assets/images/hero-slider/four/1.png",
+      "background": "/assets/images/hero-slider/four/bg-2.png"
+    }
+  ]
+}

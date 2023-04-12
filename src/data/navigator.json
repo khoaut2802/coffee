@@ -1,0 +1,74 @@
+{
+  "HOME": {
+    "title": "Trang chủ",
+    "href": "/"
+  },
+  "SHOP": {
+    "title": "Sản phẩm",
+    "href": "#",
+    "subMenu": [
+      {
+        "title": "Cà phê Thải độc đại tràng",
+        "href": "/shop/shop-3-column"
+      },
+      {
+        "title": "Cà phê hòa tan",
+        "href": "/shop/shop-3-column"
+      },
+      {
+        "title": "Cà phê nguyên hạt - rang xay",
+        "href": "/shop/shop-3-column"
+      },
+      {
+        "title": "Sản phẩm đặc biệt",
+        "href": "/shop/shop-3-column"
+      }
+    ]
+  },
+  "BLOG": {
+    "title": "Blog",
+    "href": "/blog/blog-list-sidebar"
+  },
+  "SALE": {
+    "title": "Khuyến mãi",
+    "href": "/blog/blog-list-sidebar"
+  },
+  "CONTACT": {
+    "title": "Liên hệ",
+    "href": "/other/contact-us"
+  },
+  "INTRO": {
+    "title": "Giới thiệu",
+    "href": "/other/about-us"
+  },
+  "PAGES": {
+    "title": "Pages",
+    "href": "#",
+    "subMenu": [
+      {
+        "title": "Login",
+        "href": "/auth/login"
+      },
+      {
+        "title": "Register",
+        "href": "/auth/register"
+      },
+      {
+        "title": "FAQ",
+        "href": "/other/faq"
+      },
+      {
+        "title": "Coming Soon",
+        "href": "/other/coming-soon"
+      },
+      {
+        "title": "Contact Us",
+        "href": "/other/contact-us"
+      }
+    ]
+  },
+  "ABOUT": {
+    "title": "Giới thiệu",
+    "href": "/other/about-us"
+  }
+}

@@ -1,0 +1,8 @@
+[
+  { "name": "Cà phê thải độc", "value": "coffee" },
+  { "name": "Cà phê hòa tan", "value": "organic-coffee" },
+  { "name": "Cà phê nguyên hạt - rang xay", "value": "bean-coffee" },
+  { "name": "Các sản phẩm đặc biệt", "value": "special-coffee" },
+  { "name": "Sản phẩm bán chạy", "value": "best-seller" },
+  { "name": "Sản phẩm khuyến mãi", "value": "sale-product" }
+]

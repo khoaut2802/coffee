@@ -1,0 +1,19 @@
+{
+  "one": [
+    {
+      "background": "/assets/images/sections/introduction/background_special_1.jpg",
+      "image": "/assets/images/sections/introduction/gold_1.jpeg",
+      "btnContent": "MUA NGAY"
+    },
+    {
+      "background": "/assets/images/sections/introduction/background_special_1.jpg",
+      "image": "/assets/images/sections/introduction/special-coffee_2.png",
+      "btnContent": "MUA NGAY"
+    },
+    {
+      "background": "/assets/images/sections/introduction/background_special_1.jpg",
+      "image": "/assets/images/sections/introduction/special-coffee_1.png",
+      "btnContent": "MUA NGAY"
+    }
+  ]
+}
